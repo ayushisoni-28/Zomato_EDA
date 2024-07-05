@@ -1,4 +1,5 @@
 # Zomato Exploratory Data Analysis (EDA) Project
+![Zomato Logo](Zomato-Logo-700x394.png)
 
 ## Overview
 
